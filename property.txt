@@ -1,0 +1,33 @@
+Pre-Existing Intellectual Property (Knockout List)
+
+Projects
+
+### Homer
+Name: Homer
+Description: Real Estate web application built on MySQL, PHP (Laravel) backend. Core frontend logic written in “vanilla” Javascript, utilizing Google Maps, Places, Directions, and Distance Matrix Service APIs. Algorithm sorts all apartment rental listings on the market displaying each building ordered by approximate annual transit time per year for the User. 26-page Provisional Patent filed by Client/Bryan Cave LLC on behalf of my work. ‘SYSTEMS AND METHODS FOR SELECTING OPTIMAL PROPERTY LOCATIONS BASED ON LOGISTICAL CONCERNS' (Provisional patent identifier ‘03923358’)
+Dates: 2018
+Link: https://github.com/mattelianyc/Homer
+
+### LighterJack
+Name: LighterJack
+Description: IoT app designed to protect your investment in a BIC and to expose friends attempting to take it. A novelty item endorsed by The LOX: "it's fucking genius." - Styles P. Bluetooth proximity app built in React Native using a Nordic Semiconductor BLE chip as a peripheral device. Establishes connection with BLE chip, uses Kalman Filter algorithm to clean out noise from RSSI values. Implements QR Scanner, Background Processing, and Local/Push Notifications. Alerts central device (phone) when peripheral device (microchip) is going out of range.
+Dates: 2018 ish
+Link: https://github.com/mattelianyc/LJ2.0
+
+### Paperboy
+Name: Paperboy
+Description: A suite of automation tools, including but not limited to web, desktop, and browser extensions, used for generating script code from DOM interactions and executing it in a UI. Paperboy is designed to be user-friendly, catering to individuals who may not have the technical skills or interest to manually run scripts via the terminal.
+Dates: April 2023 to present
+Link: Not public
+
+### "Crisis Judo"
+- **Name:** Humana Beats
+- **Description:** An early-stage / borderline imaginary with a friend / musician / pro skater / madman. Incentivizes both creators and listeners to share and stream by levying a tax on their social media posts. It leverages the inherent narcissism of artists and the loud signal of virtue in the marketplace to bring money to charitable organizations. If the song isn't to a listener's liking, they can still tweet about the charitable cause they just championed in a matter of seconds. There are no losers here and that's not up for debate.
+- **Dates:** 2 years of "show me a napkin drawing i'll give you code ;)" - foreva eva?
+- **Link:** DNE
+
+### Industry Collaboration
+Name: TBD
+Description: This is an ongoing brainstorming and concept development endeavor between myself and a good friend / respected industry veteran with deep roots in the music industry. Our discussions and efforts are largely focused around various aspects of the music industry, such as label operations, publishing groups, etc. Please note that while ideas and concepts are being explored, there is no concrete project in development at this time.
+Dates: Starting date to present
+Link: TBD
